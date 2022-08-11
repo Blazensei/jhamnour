@@ -1,1 +1,1 @@
-Edfolio_Task
+Edfolio_Task v1.0
